@@ -1,0 +1,5 @@
+FROM postgres:15-alpine
+ENV POSTGRES_DB=escolar
+ENV POSTGRES_USER=usuario
+ENV POSTGRES_PASSWORD=senha
+COPY script.sql /docker-entrypoint-initdb.d/
