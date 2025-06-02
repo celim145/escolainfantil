@@ -1,3 +1,4 @@
+Marcelo Luis dos Santos Raimundo 6324637
 # Projeto App com Docker
 
 Este documento explica detalhadamente como configurar, construir e executar o projeto utilizando Docker e Docker Compose. Aqui você encontrará uma descrição da estrutura do projeto, dos componentes que compõem a aplicação (como o contêiner da aplicação Node.js, o banco de dados e o Nginx como proxy reverso) e os comandos necessários para construir e subir os contêineres.
